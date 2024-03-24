@@ -1,0 +1,7 @@
+Added Member To Class: ClassName=NixieClock Member=Component DD1 FT232RL
+Added Member To Class: ClassName=Clock Member=Component VT4 NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C
+Added Member To Class: ClassName=Clock Member=Component VT5 NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C
+Added Member To Class: ClassName=Clock Member=Component VT6 NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C
+Added Member To Class: ClassName=Clock Member=Component VT7 NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C
+Added Member To Class: ClassName=Clock Member=Component VT9 PNP transistor, 45V, 100mA, 100MHz, 300mW, 0.65V, 220, SOT-23, -55...+125°C
+Added Member To Class: ClassName=Clock Member=Component VT10 NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C

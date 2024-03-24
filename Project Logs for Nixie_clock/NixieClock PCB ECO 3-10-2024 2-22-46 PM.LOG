@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=VT1 Old Footprint=D2PAK New Footprint=SOT223
+Change Component Footprint: Designator=VT2 Old Footprint=D2PAK New Footprint=SOT223
+Change Component Footprint: Designator=VT3 Old Footprint=D2PAK New Footprint=SOT223
+Change Component Footprint: Designator=VT7 Old Footprint=D2PAK New Footprint=SOT223
+Change Component Footprint: Designator=VT8 Old Footprint=D2PAK New Footprint=SOT223
+Change Component Footprint: Designator=VT4 Old Footprint=SOT23 New Footprint=SOT223
+Change Component Footprint: Designator=VT5 Old Footprint=SOT23 New Footprint=SOT223
+Change Component Footprint: Designator=VT6 Old Footprint=SOT23 New Footprint=SOT223
+Change Component Footprint: Designator=VT9 Old Footprint=SOT23 New Footprint=SOT223
+Change Component Footprint: Designator=VT10 Old Footprint=SOT23 New Footprint=SOT223
+Added Room: Name=Clock
+Added Room: Name=NixieClock

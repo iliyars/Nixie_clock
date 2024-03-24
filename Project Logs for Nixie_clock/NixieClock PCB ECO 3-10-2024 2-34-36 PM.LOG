@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=VT2 Old Footprint=SOT223 New Footprint=SOT23
+Change Component Footprint: Designator=VT3 Old Footprint=SOT223 New Footprint=SOT23
+Change Component Footprint: Designator=VT4 Old Footprint=SOT223 New Footprint=SOT23
+Change Component Footprint: Designator=VT5 Old Footprint=SOT223 New Footprint=SOT23
+Change Component Footprint: Designator=VT6 Old Footprint=SOT223 New Footprint=SOT23
+Change Component Footprint: Designator=VT7 Old Footprint=SOT223 New Footprint=SOT23
+Change Component Footprint: Designator=VT8 Old Footprint=SOT223 New Footprint=SOT23
+Change Component Footprint: Designator=VT9 Old Footprint=SOT223 New Footprint=SOT23
+Change Component Footprint: Designator=VT10 Old Footprint=SOT223 New Footprint=SOT23
+Added Member To Class: ClassName=NixieClock Member=Component DD? FT232RL

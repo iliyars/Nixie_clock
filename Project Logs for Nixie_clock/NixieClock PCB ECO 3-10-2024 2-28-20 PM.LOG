@@ -1,0 +1,16 @@
+Added Component: Designator=DD?(SSOP-28)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "DataSheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Url"; Value = "http://is/datasheet/files/AD_Library_Pdf/Microchip/FT232R.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Type"; Value = "??????????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartNumber"; Value = "?????????? FT232RL FTDI Chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FT232RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "??? ???????"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "????"; Value = "FTDI Chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????"; Value = "??????????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???? Imbase"; Value = "i60026C50B6529001BDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???-?? ???? SMD"; Value = "28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "???-?? ???? ????????"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "?????????????"; Value = "+_???1-6,+_?,+_?,+_?,?,?_?,?_?,???,???,?,?,??,??_?"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=NixieClock Member=Component DD? FT232RL
