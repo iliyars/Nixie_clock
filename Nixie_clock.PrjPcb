@@ -83,23 +83,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=Clock.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IRHZOQWI
-
-[Document4]
 DocumentPath=NixieClock.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -912,7 +895,7 @@ Type6=2
 Type7=0
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
@@ -1032,13 +1015,13 @@ Type127=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
-L2=NNWNNNNWWWNWNWNWN
+L2=NNWNNNNNWWNWNWNWN
 L3=NWEENEEEENEWNEEWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
-L8=NWEENEENEEENNEENN
+L8=NNEENEENEEENNEENN
 L9=NWEENEEEENEWNEEWW
 L10=NWNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
