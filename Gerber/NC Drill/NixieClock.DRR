@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: NixieClock.PcbDoc   4/1/2024  9:45:26 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NixieClock-RoundHoles.TXT
+ASCII SlotHoles File : NixieClock-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.15mm (6mil)                                             Round             69        PTH        616.38mm (24.27inch)
+T2      0.6mm (24mil)                                             Round             4         PTH        11.30mm (0.44inch)
+T3      0.8mm (31mil)                                             Round             52        PTH        331.66mm (13.06inch)
+T4      0.9mm (35mil)                                             Round             16        PTH        48.13mm (1.89inch)
+T5      1.2mm (47mil)                                             Round             14        PTH        87.52mm (3.45inch)
+T6      1.2mm (47mil)                                             Slot              3         PTH        27.75mm (1.09inch)
+T7      3mm (118mil)                                              Round             3         PTH        181.00mm (7.13inch)
+T8      3.5mm (138mil)                                            Round             4         PTH        70.00mm (2.76inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              165
+
+Total Processing Time (hh:mm:ss) : 00:00:00
