@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=+180V Pin=R1-2
+Removed Pin From Net: NetName=+180V Pin=R2-2
+Removed Pin From Net: NetName=+180V Pin=R3-2
+Removed Pin From Net: NetName=+180V Pin=R13-2
+Removed Pin From Net: NetName=+180V Pin=R14-2
+Removed Pin From Net: NetName=+180V Pin=VT1-2
+Removed Pin From Net: NetName=+180V Pin=VT2-2
+Removed Pin From Net: NetName=+180V Pin=VT3-2
+Removed Pin From Net: NetName=GND Pin=VT4-2
+Removed Pin From Net: NetName=GND Pin=VT5-2
+Removed Pin From Net: NetName=GND Pin=VT6-2
+Removed Pin From Net: NetName=+180V Pin=VT8-2
+Removed Pin From Net: NetName=+180V Pin=VT9-2
+Removed Pin From Net: NetName=GND Pin=VT10-2
+Removed Pin From Net: NetName=GND Pin=VT11-2
+Change Component Footprint: Designator=B1 Old Footprint=BAT: CH224-2032 New Footprint=BAT: CR1220
+Change Component Comment : Designator=B1 Old Comment=Single battery CR2032 New Comment=Single battery CR1220
+Change component parameters: Designator = "B1" ("B1"); Footprint = "BAT: CH224-2032"; UniqueID = "\FYNTYBFH" ("\FYNTYBFH")
+Change component parameters (AddParameter): Name = "CommentText"; Value = "CR1220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://lcsc.com/product-detail/Battery-Holders-Clips-Contacts_CR1220-2-Battery-horizontal-base_C70381.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Q&J"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CR1220-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Single battery CR1220"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single battery CR1220"; VariantName = "[No Variations]"
+Added Component: Designator=L5(CAP: D5C2H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 330µF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=L6(CAP: D5C2H11)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/wurth-electronics-inc/860080475013/732-9029-1-ND/5728972"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "54mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "860080475013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Aluminium capacitor, 330µF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=X2(CON: PLS-4)
+Add component (AddParameter): Name = "CommentText"; Value = ""??????""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "4pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 4pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L2 Pin=HL2-1
+Added Pin To Net: NetName=L2 Pin=HL2-1
+Added Pin To Net: NetName=GND Pin=L6-2
+Added Pin To Net: NetName=VDD Pin=X2-1
+Added Pin To Net: NetName=SWCLK Pin=X2-2
+Added Pin To Net: NetName=SWDIO Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X2-4
+Added Pin To Net: NetName=BUZZ Pin=BF1-1
+Added Pin To Net: NetName=BUZZ Pin=D1-2
+Added Net: Name=BUZZ
+Added Pin To Net: NetName=NetL5_1 Pin=L5-1
+Added Pin To Net: NetName=NetL5_1 Pin=R32-1
+Added Net: Name=NetL5_1
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Pin To Net: NetName=NetL5_2 Pin=L6-1
+Added Net: Name=NetL5_2
+Added Member To Class: ClassName=NixieClock Member=Component L5 Aluminium capacitor, 330µF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=NixieClock Member=Component L6 Aluminium capacitor, 330µF, 25V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=NixieClock Member=Component X2 Connector, 4pin, 2.54mm, 500VAC, 3A

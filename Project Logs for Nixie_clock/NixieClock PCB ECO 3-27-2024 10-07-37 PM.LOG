@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=X1 Old Footprint=KLS1-DC-005A-2.0 New Footprint=KLS1-DC-025V
+Change Component Comment : Designator=X1 Old Comment=KLS1-DC-005A New Comment=Connector, 2pin, 9.53mm, 300VAC, 25A
+Added Member To Class: ClassName=NixieClock Member=Component C1 Aluminium capacitor, 4.7µF, 300V, ±20%, 54mOhm, 14x10x5 mm, -55...+105°C
+Added Member To Class: ClassName=NixieClock Member=Component C5 Ceramic capacitor, 0.1µF, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=NixieClock Member=Component C7 Ceramic capacitor, 0.1µF, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=NixieClock Member=Component C9 Ceramic capacitor, 0.1µF, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=NixieClock Member=Component C10 Ceramic capacitor, 12p, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=NixieClock Member=Component C11 Ceramic capacitor, 12p, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=NixieClock Member=Component R21 Resistor film, 10k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=NixieClock Member=Component R25 Resistor film, 10k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=NixieClock Member=Component R27 Resistor film, 10k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=NixieClock Member=Component VT7 NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C

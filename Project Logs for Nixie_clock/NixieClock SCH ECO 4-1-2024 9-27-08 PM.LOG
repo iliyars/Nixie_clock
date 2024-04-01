@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=HL1 Old Footprint=IN-12 New Footprint=
+Change Component Footprint: Designator=HL2 Old Footprint=IN-12 New Footprint=
+Change Component Footprint: Designator=HL3 Old Footprint=IN-12 New Footprint=
+Change Component Footprint: Designator=HL4 Old Footprint=IN-12 New Footprint=
+Change Component Designator: OldDesignator=HL1 NewDesignator=
+Change Component Designator: OldDesignator=HL2 NewDesignator=
+Change Component Designator: OldDesignator=HL3 NewDesignator=
+Change Component Designator: OldDesignator=HL4 NewDesignator=
+Change Component Designator: OldDesignator=L3 NewDesignator=

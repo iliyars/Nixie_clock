@@ -1,0 +1,7 @@
+Change Footprint: Cannot match pads with new footprint in component :HL1 Footprint:IN-12
+Change Footprint: Cannot match pads with new footprint in component :HL2 Footprint:IN-12
+Change Footprint: Cannot match pads with new footprint in component :HL3 Footprint:IN-12
+Change Footprint: Cannot match pads with new footprint in component :HL4 Footprint:IN-12
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=VT7-3
+Added Net: Name=NetR12_1
