@@ -16,8 +16,10 @@ __Previews
 Project\ Outputs
 Project\ Logs
 Project Outputs for*
+Project Logs for*
+Project Outputs for Nixie_clock
+Project Logs for Nixie_clock
 
-#History
 History
 
 #Exports, but not manual ones
@@ -29,3 +31,5 @@ scripts/__pycache__/
 *.bak
 *.dwl
 *.dwl2
+
+*.PcbDoc.zip
