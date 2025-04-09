@@ -16,9 +16,14 @@ __Previews
 Project\ Outputs
 Project\ Logs
 Project Outputs for*
+Project Outputs for*/
+Project Logs for*/
+Project Logs for*
+Project Outputs for Nixie_clock
+Project Logs for Nixie_clock
 
-#History
 History
+History/
 
 #Exports, but not manual ones
 exports/*
@@ -29,3 +34,41 @@ scripts/__pycache__/
 *.bak
 *.dwl
 *.dwl2
+
+*.PcbDoc.zip
+
+/_devel/
+/patch/
+/*.7z
+/*.zip
+*.exp
+*.lib
+*.rtw
+
+
+# Временные и кэш-файлы КОМПАС
+*.bak
+*.~*
+*.tmp
+*.log
+*.asd
+
+# Файлы автосохранения
+*.a3d.autosave
+*.cdw.autosave
+*.m3d.autosave
+*.spw.autosave
+*.frw.autosave
+
+# Файлы с резервными копиями
+*.cdw.bak
+*.a3d.bak
+*.m3d.bak
+*.spw.bak
+*.frw.bak
+
+# Каталоги, создаваемые КОМПАС
+~$*
+__MACOSX/
+Thumbs.db
+.DS_Store
